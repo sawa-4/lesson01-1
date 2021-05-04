@@ -13,7 +13,7 @@ console.log(total);
 // function gyakuten(n){
 //     N = [];
 //     for (let i = 0; i < n.length; i++){
-//         let m = n.charAt(i);
+//         let m = n.charAt(-i);
 //         N.push(m);
 //     }
 //     N = Number(N.join());
